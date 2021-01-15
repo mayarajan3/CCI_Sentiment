@@ -1,0 +1,214 @@
+NPU-WIDE RESULTS
+NPU A
+Max sentiment neighborhood:  westpacesferry :  0.09822662726959985
+Min sentiment neighborhood:  tuxedopark :  0.050936437775130884
+Standard deviation:  0.01677651292178512
+Range:  0.04729018949446897
+Average sentiment:  0.060487000485034144
+Number of tweets:  7
+
+NPU B
+Max sentiment neighborhood:  peachtreepark :  0.1847713322887965
+Min sentiment neighborhood:  lenox :  0.044643573213576704
+Standard deviation:  0.05199667335739011
+Range:  0.1401277590752198
+Average sentiment:  0.09405212418240526
+Number of tweets:  12
+
+NPU C
+Max sentiment neighborhood:  colonialhomes :  0.2261014506757683
+Min sentiment neighborhood:  hanoverwest :  0.028455722288876748
+Standard deviation:  0.055323299198579715
+Range:  0.19764572838689157
+Average sentiment:  0.11589682732027429
+Number of tweets:  18
+
+NPU D
+Max sentiment neighborhood:  blandtown :  0.19208078572042606
+Min sentiment neighborhood:  hillspark :  0.07464925037689021
+Standard deviation:  0.04484228905749319
+Range:  0.11743153534353584
+Average sentiment:  0.11238002508728928
+Number of tweets:  6
+
+NPU E
+Max sentiment neighborhood:  midtown :  0.18425461809555008
+Min sentiment neighborhood:  georgiatech :  0.10128855190367257
+Standard deviation:  0.025003577571841358
+Range:  0.0829660661918775
+Average sentiment:  0.14629218985212894
+Number of tweets:  10
+
+NPU F
+Max sentiment neighborhood:  piedmontheights :  0.1794841740216624
+Min sentiment neighborhood:  morningside :  0.07335895433338574
+Standard deviation:  0.043491090140805384
+Range:  0.10612521968827665
+Average sentiment:  0.12350472515257495
+Number of tweets:  6
+
+NPU G
+Max sentiment neighborhood:  carverhills :  0.141779972515701
+Min sentiment neighborhood:  boltonhills :  0.029082693078317
+Standard deviation:  0.03496174748337247
+Range:  0.11269727943738402
+Average sentiment:  0.11006498632994641
+Number of tweets:  11
+
+NPU H
+Max sentiment neighborhood:  bakersferry :  0.46686765487585
+Min sentiment neighborhood:  carrollheights :  0.03606853518581261
+Standard deviation:  0.154911303664847
+Range:  0.4307991196900374
+Average sentiment:  0.2080889077794185
+Number of tweets:  12
+
+NPU I
+Max sentiment neighborhood:  westmanor :  0.8333373716000004
+Min sentiment neighborhood:  ivanhill :  0.05047060550609548
+Standard deviation:  0.2810331043885994
+Range:  0.7828667660939049
+Average sentiment:  0.6608565155557394
+Number of tweets:  11
+
+NPU J
+Max sentiment neighborhood:  grovepark :  0.22132575396017526
+Min sentiment neighborhood:  dixiehills :  0.12491606757962444
+Standard deviation:  0.039442057204340984
+Range:  0.09640968638055082
+Average sentiment:  0.17161106080048866
+Number of tweets:  4
+
+NPU K
+Max sentiment neighborhood:  washingtonpark :  0.2663638127258577
+Min sentiment neighborhood:  hunterhills :  0.006744173650412015
+Standard deviation:  0.12248059652208049
+Range:  0.25961963907544566
+Average sentiment:  0.1058820584525392
+Number of tweets:  5
+
+NPU L
+Max sentiment neighborhood:  englishavenue :  0.41887828731251
+Min sentiment neighborhood:  vinecity :  0.3836477994230606
+Standard deviation:  0.024911716891140197
+Range:  0.03523048788944938
+Average sentiment:  0.4012630433677853
+Number of tweets:  2
+
+NPU M
+Max sentiment neighborhood:  castleberryhill :  0.23782146119194997
+Min sentiment neighborhood:  sweetauburn :  0.14746144499955388
+Standard deviation:  0.04282123804357068
+Range:  0.09036001619239609
+Average sentiment:  0.18874873594244523
+Number of tweets:  4
+
+NPU N
+Max sentiment neighborhood:  lakeclair :  0.3455800387200803
+Min sentiment neighborhood:  ponceyhighland :  0.07919172751065581
+Standard deviation:  0.08197045148606975
+Range:  0.2663883112094245
+Average sentiment:  0.23280994087952603
+Number of tweets:  7
+
+NPU O
+Max sentiment neighborhood:  eastlake :  0.4023217186009758
+Min sentiment neighborhood:  edgewood :  0.18646612178780012
+Standard deviation:  0.11534868329678173
+Range:  0.2158555968131757
+Average sentiment:  0.27089279206963485
+Number of tweets:  3
+
+NPU P
+Max sentiment neighborhood:  wildwoodforest :  0.41426986939302846
+Min sentiment neighborhood:  fairwayacres :  0.009485812290180001
+Standard deviation:  0.1031678036976107
+Range:  0.4047840571028485
+Average sentiment:  0.1614938543207538
+Number of tweets:  20
+
+NPU Q
+Max sentiment neighborhood:  midwestcascade :  0.021859892997903668
+Min sentiment neighborhood:  midwestcascade :  0.021859892997903668
+Standard deviation:  0
+Range:  0.0
+Average sentiment:  0.021859892997903668
+Number of tweets:  1
+
+NPU R
+Max sentiment neighborhood:  southwest :  0.3747199932159955
+Min sentiment neighborhood:  laurensvalley :  0.0101295726024
+Standard deviation:  0.13188672413808492
+Range:  0.3645904206135955
+Average sentiment:  0.21580346676129922
+Number of tweets:  6
+
+NPU S
+Max sentiment neighborhood:  bushmountain :  0.49950003179748004
+Min sentiment neighborhood:  cascadeavenue :  0.037759902894253
+Standard deviation:  0.16224835958586598
+Range:  0.461740128903227
+Average sentiment:  0.21517792301932362
+Number of tweets:  6
+
+NPU T
+Max sentiment neighborhood:  westview :  0.2847650155075067
+Min sentiment neighborhood:  harrischiles :  0.0005729029859265001
+Standard deviation:  0.11199729323824549
+Range:  0.2841921125215802
+Average sentiment:  0.18844855594393892
+Number of tweets:  5
+
+NPU V
+Max sentiment neighborhood:  mechanicsville :  0.2448342651758509
+Min sentiment neighborhood:  pittsburgh :  0.11719252055705537
+Standard deviation:  0.051554468498557667
+Range:  0.12764174461879554
+Average sentiment:  0.18528576131425037
+Number of tweets:  6
+
+NPU W
+Max sentiment neighborhood:  statefacility :  0.49964126122528757
+Min sentiment neighborhood:  oakland :  0.06131614911153696
+Standard deviation:  0.12292612968318657
+Range:  0.4383251121137506
+Average sentiment:  0.2099715873349604
+Number of tweets:  10
+
+NPU X
+Max sentiment neighborhood:  hammondpark :  0.3477137672419167
+Min sentiment neighborhood:  sylvanhills :  0.18932969835061442
+Standard deviation:  0.0731813414694581
+Range:  0.1583840688913023
+Average sentiment:  0.24342086177519215
+Number of tweets:  4
+
+NPU Y
+Max sentiment neighborhood:  joyland :  0.42082366907285274
+Min sentiment neighborhood:  englewoodmanor :  0.00044227759189199997
+Standard deviation:  0.1442075720990588
+Range:  0.4203813914809607
+Average sentiment:  0.1627453630117388
+Number of tweets:  7
+
+NPU Z
+Max sentiment neighborhood:  orchardknob :  0.5236615509376152
+Min sentiment neighborhood:  swallowcircle :  0.00126786566499434
+Standard deviation:  0.14422038889607647
+Range:  0.5223936852726209
+Average sentiment:  0.17522391926113975
+Number of tweets:  10
+
+ATLANTA-WIDE RESULTS
+Average:  0.18945996604967105
+Max neighborhood:  0.8333373716000004 :  westmanor
+Min neighborhood:  0.00044227759189199997 :  englewoodmanor
+
+Max average NPU:  0.4012630433677853 :  NPU L
+Min average NPU:  0.021859892997903668 :  NPU Q
+
+Max stdev NPU:  0.2810331043885994 :  NPU I
+Min stdev NPU:  0 :  NPU Q
+
+Max range NPU:  0.5223936852726209 :  NPU Z
+Min range NPU:  0.0 :  NPU Q
